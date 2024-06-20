@@ -7,8 +7,11 @@ BRQ****
 
 FRQ***
 1)
-2)
+2) A loyalty system is required
 3)
+4) The system should automate the process of preparing dishes from the menu.
+5)
+6)Хочу, чтобы было всё, быстро и дёшево
 
 
 
