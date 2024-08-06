@@ -6,11 +6,11 @@ Busines
 
 
 Func 
-1)
-2) test
-3)
-4)
-5)
+1)Registration + 1
+2) Test
+3)куку
+4)1
+5) hello world
 
 
 No Func
