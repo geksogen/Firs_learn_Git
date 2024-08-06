@@ -15,6 +15,7 @@ Func
 
 No Func
 
+<<<<<<< HEAD
 
 
 
@@ -27,3 +28,6 @@ No Func
 
 
 13) test NF
+=======
+8) дизайн
+>>>>>>> ff7f8af439e8a59822aa06542bff808b54b7af76
