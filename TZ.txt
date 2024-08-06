@@ -6,11 +6,28 @@ Busines
 
 
 Func 
-1)
-2)
-3)
-4)
-5)
+1)Registration + 1
+2) Test
+3)куку
+4)1
+5) hello world
 
 
 No Func
+
+<<<<<<< HEAD
+lalala
+valyaPogr 666
+
+
+
+
+
+
+
+
+
+13) test NF
+=======
+8) дизайн
+>>>>>>> ff7f8af439e8a59822aa06542bff808b54b7af76
